@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+    background-color: yellowgreen;
+}
+header,footer{
+    height: 50px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+a{
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    height: 607px;
+    width: 1349px;
+}
+h4{
+    font-size: 20px;
+}

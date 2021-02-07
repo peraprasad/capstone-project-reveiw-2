@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+    background-color: black;
+}
+header,footer{
+    height: 50px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+a{
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+img{
+    height: 607px;
+    width: 1349px;
+}
+section{
+    width: 1200px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    margin: auto;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+h4{
+    font-size: 20px;
+    text-align: center;
+}
+p,h1,h2{
+    width: 1200px;
+    color: white;
+    margin: auto;    
+}
+h1{
+    text-align: center;
+}
